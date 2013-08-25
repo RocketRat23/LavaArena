@@ -1,0 +1,14 @@
+#Default Config File
+Arena:
+    L1:
+        x:
+        y:
+        z:
+    L2:
+        x:
+        y:
+        z:
+    World:
+TopScore: 0
+FirstLaunch: true
+Debug: false

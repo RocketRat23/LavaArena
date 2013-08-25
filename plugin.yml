@@ -1,0 +1,10 @@
+name: LavaArena
+author: RocketRat23
+main: me.RocketRat23.LavaArena.LavaArena
+version: 1.0
+description: This plugin is the minigame LavaArena
+commands:
+    lavaarena:
+        description: Configuration command for lava arena
+    la:
+        description: Configuration command for lava arena
